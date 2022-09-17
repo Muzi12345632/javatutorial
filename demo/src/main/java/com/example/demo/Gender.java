@@ -1,2 +1,5 @@
-package com.example.demo;public enum Gender {
+package com.example.demo;
+
+public enum Gender {
+    MALE, FEMALE
 }
